@@ -1,9 +1,3 @@
-/*------------------------------------------------------------------
-  Project: Resume
-  Author: The_Krishna
-  Last change: 01/06/2024
-  Primary use:
------------------------------------------------------------------- */
 
 /*-----------------------[Table of contents]------------------------
 1.Default CSS
@@ -85,7 +79,7 @@ ul li {
 
 :root{
     --black-color:#0F141C;
-    --second-color: #f38989;
+    --second-color:#ff3636;
     --third-color: lightblue;
 
 
