@@ -1677,6 +1677,10 @@ li.slick-active {
     background-image: url('../images/project/project2.jpg');
 }
 
+.blog-img-section4 {
+    background-image: url('../images/project/proejct4.jpg');
+}
+
 .blog-date {
     width: 64px;
     height: 64px;
